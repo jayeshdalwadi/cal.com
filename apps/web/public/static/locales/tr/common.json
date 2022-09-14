@@ -1037,5 +1037,7 @@
   "download_desktop_app": "Masaüstü uygulamasını indirin",
   "set_ping_link": "Ping bağlantısını ayarla",
   "missing_connected_calendar": "Bağlı takvim yok",
-  "organizer_name_info": "Adınız"
+  "organizer_name_info": "Adınız",
+  "theme_light": "Açık",
+  "theme_dark": "Koyu"
 }

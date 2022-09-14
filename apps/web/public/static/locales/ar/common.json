@@ -1037,5 +1037,7 @@
   "download_desktop_app": "تحميل تطبيق سطح المكتب",
   "set_ping_link": "تعيين رابط Ping",
   "missing_connected_calendar": "لا يوجد تقويم افتراضي متصل",
-  "organizer_name_info": "اسمك"
+  "organizer_name_info": "اسمك",
+  "theme_light": "فاتح",
+  "theme_dark": "داكن"
 }

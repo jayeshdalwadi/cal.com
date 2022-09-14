@@ -1037,5 +1037,7 @@
   "download_desktop_app": "Scarica app desktop",
   "set_ping_link": "Imposta link di Ping",
   "missing_connected_calendar": "Nessun calendario predefinito collegato",
-  "organizer_name_info": "Il tuo nome"
+  "organizer_name_info": "Il tuo nome",
+  "theme_light": "Chiaro",
+  "theme_dark": "Scuro"
 }

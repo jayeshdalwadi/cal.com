@@ -1035,5 +1035,7 @@
   "using_additional_inputs_as_variables": "Как использовать ответы на дополнительные вопросы в качестве переменных?",
   "download_desktop_app": "Скачать приложение для компьютера",
   "set_ping_link": "Ссылка на Ping",
-  "organizer_name_info": "Ваше имя"
+  "organizer_name_info": "Ваше имя",
+  "theme_light": "Светлая",
+  "theme_dark": "Тёмная"
 }

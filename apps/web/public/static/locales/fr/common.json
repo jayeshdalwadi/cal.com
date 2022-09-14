@@ -1035,5 +1035,7 @@
   "using_additional_inputs_as_variables": "Comment utiliser des entrées supplémentaires en tant que variables ?",
   "download_desktop_app": "Télécharger l'application de bureau",
   "set_ping_link": "Définir le lien Ping",
-  "organizer_name_info": "Votre nom"
+  "organizer_name_info": "Votre nom",
+  "theme_light": "Clair",
+  "theme_dark": "Sombre"
 }

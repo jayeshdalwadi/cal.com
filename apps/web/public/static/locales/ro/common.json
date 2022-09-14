@@ -1037,5 +1037,7 @@
   "download_desktop_app": "Descărcați aplicația pentru desktop",
   "set_ping_link": "Setare link Ping",
   "missing_connected_calendar": "Nu este conectat niciun calendar implicit",
-  "organizer_name_info": "Numele tău"
+  "organizer_name_info": "Numele tău",
+  "theme_light": "Lumină",
+  "theme_dark": "Întunecat"
 }

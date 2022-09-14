@@ -1037,5 +1037,7 @@
   "download_desktop_app": "Desktop-app downloaden",
   "set_ping_link": "Ping-link instellen",
   "missing_connected_calendar": "Geen standaard agenda verbonden",
-  "organizer_name_info": "Uw naam"
+  "organizer_name_info": "Uw naam",
+  "theme_light": "Licht",
+  "theme_dark": "Donker"
 }

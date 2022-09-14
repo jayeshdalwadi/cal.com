@@ -1035,5 +1035,7 @@
   "using_additional_inputs_as_variables": "איך ניתן להשתמש בסוגי קלט נוספים כמשתנים?",
   "download_desktop_app": "הורדת האפליקציה למחשבים שולחניים",
   "set_ping_link": "הגדרת קישור Ping",
-  "organizer_name_info": "שמך"
+  "organizer_name_info": "שמך",
+  "theme_light": "בהיר",
+  "theme_dark": "כהה"
 }

@@ -1037,5 +1037,7 @@
   "download_desktop_app": "下载桌面应用",
   "set_ping_link": "设置 Ping 链接",
   "missing_connected_calendar": "未连接默认日历",
-  "organizer_name_info": "您的姓名"
+  "organizer_name_info": "您的姓名",
+  "theme_light": "浅色",
+  "theme_dark": "深色"
 }

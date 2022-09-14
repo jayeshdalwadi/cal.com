@@ -1037,5 +1037,7 @@
   "download_desktop_app": "Preuzmite aplikaciju za stoni računar",
   "set_ping_link": "Podesi Ping vezu",
   "missing_connected_calendar": "Nije povezan podrazumevani kalendar",
-  "organizer_name_info": "Vaše ime"
+  "organizer_name_info": "Vaše ime",
+  "theme_light": "Svetla",
+  "theme_dark": "Tamna"
 }

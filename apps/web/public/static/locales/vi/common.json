@@ -1037,5 +1037,7 @@
   "download_desktop_app": "Tải ứng dụng trên máy tính bàn",
   "set_ping_link": "Đặt liên kết Ping",
   "missing_connected_calendar": "Không có lịch được kết nối",
-  "organizer_name_info": "Tên của bạn"
+  "organizer_name_info": "Tên của bạn",
+  "theme_light": "Sáng",
+  "theme_dark": "Tối"
 }

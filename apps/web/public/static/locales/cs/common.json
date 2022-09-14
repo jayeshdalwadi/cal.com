@@ -1035,5 +1035,7 @@
   "using_additional_inputs_as_variables": "Jak používat doplňkové vstupy jako proměnné?",
   "download_desktop_app": "Stáhněte si aplikaci pro stolní počítače",
   "set_ping_link": "Nastavení odkazu Ping",
-  "organizer_name_info": "Vaše jméno"
+  "organizer_name_info": "Vaše jméno",
+  "theme_light": "Světlý",
+  "theme_dark": "Tmavý"
 }

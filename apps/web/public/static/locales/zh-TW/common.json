@@ -1037,5 +1037,7 @@
   "download_desktop_app": "下載桌面版應用程式",
   "set_ping_link": "設定 Ping 連結",
   "missing_connected_calendar": "無已連接的預設行事曆",
-  "organizer_name_info": "名字"
+  "organizer_name_info": "名字",
+  "theme_light": "亮色",
+  "theme_dark": "暗色"
 }

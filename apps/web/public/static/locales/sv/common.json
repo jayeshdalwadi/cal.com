@@ -1037,5 +1037,7 @@
   "download_desktop_app": "Ladda ned skrivbordsappen",
   "set_ping_link": "Ange Ping-länk",
   "missing_connected_calendar": "Ingen standardkalender ansluten",
-  "organizer_name_info": "Ditt namn"
+  "organizer_name_info": "Ditt namn",
+  "theme_light": "Ljus",
+  "theme_dark": "Mörk"
 }

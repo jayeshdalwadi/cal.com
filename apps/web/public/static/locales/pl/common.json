@@ -1037,5 +1037,7 @@
   "download_desktop_app": "Pobierz aplikację komputerową",
   "set_ping_link": "Ustaw link do aplikacji Ping",
   "missing_connected_calendar": "Nie podłączono kalendarza domyślnego",
-  "organizer_name_info": "Twoje imię"
+  "organizer_name_info": "Twoje imię",
+  "theme_light": "Jasny",
+  "theme_dark": "Ciemny"
 }

@@ -1037,5 +1037,7 @@
   "download_desktop_app": "데스크탑 앱 다운로드",
   "set_ping_link": "Ping 링크 설정",
   "missing_connected_calendar": "연결된 캘린더 없음",
-  "organizer_name_info": "당신의 이름"
+  "organizer_name_info": "당신의 이름",
+  "theme_light": "밝은",
+  "theme_dark": "어두움"
 }

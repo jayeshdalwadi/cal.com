@@ -1035,5 +1035,7 @@
   "using_additional_inputs_as_variables": "Як використовувати додаткові поля введення як змінні?",
   "download_desktop_app": "Завантажити додаток для ПК",
   "set_ping_link": "Установити Ping-посилання",
-  "organizer_name_info": "Ваше ім’я"
+  "organizer_name_info": "Ваше ім’я",
+  "theme_light": "Світла",
+  "theme_dark": "Темна"
 }
