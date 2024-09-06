@@ -9,7 +9,7 @@
     "@calcom/lib": "*",
     "@calcom/prisma": "*",
     "@ewsjs/xhr": "^1.4.4",
-    "ews-javascript-api": "^0.11.0"
+    "ews-javascript-api": "^0.12.0"
   },
   "devDependencies": {
     "@calcom/types": "*"
