@@ -9,7 +9,7 @@
     "@trpc/client": "^9.27.0",
     "@trpc/next": "^9.27.0",
     "@trpc/react": "^9.27.0",
-    "@trpc/server": "^9.27.0",
+    "@trpc/server": "^11.1.1",
     "superjson": "1.9.1",
     "zod": "^3.18.0"
   }
